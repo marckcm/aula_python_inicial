@@ -2,7 +2,7 @@
 Operador ternário em Python
 """
 
-idade = input('Qual dua idade?\n')
+idade = input('Qual sua idade?\n')
 
 if not idade.isnumeric():
     print('Você precisa digitar apenas números')
